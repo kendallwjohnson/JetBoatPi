@@ -6,7 +6,7 @@ a boilerplate for developing kiosks, digital signage or other human-machine inte
 This project does not currently support the armv6 architecture (ie Raspberry Pi 0 and 1) due to electron limitations. If the issue is fixed on the electron side, we will include it in this project. More on this [here](https://github.com/electron/electron/issues/4677)
 
 ## Getting started
-
+testestetsetse
 - Sign up on [resin.io](https://dashboard.resin.io/signup)
 - go throught the [getting started guide](http://docs.resin.io/raspberrypi/nodejs/getting-started/) and create a new application
 - clone this repository to your local workspace
